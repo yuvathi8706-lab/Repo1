@@ -13,6 +13,12 @@ int main(){
                 case '-':
                         res = (a>b)?(a-b):(a+b);
                         break;
+		case '*':
+			res = a*b;
+			break;
+		case '/':
+			res = a/b;
+			break;
                 default:
                         res = 0;
                         break;
