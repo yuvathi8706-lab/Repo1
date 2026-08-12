@@ -1,4 +1,2 @@
-wrwe
-ewrwe
-eewer
-erewr
+This is file1.txt created for week6 lab exercise.
+hello!
